@@ -1,2 +1,2 @@
 # Online-Voting-System-using-Python- 
-iii
+The Online Voting System is a web-based interface developed using the Python programming language and the PyCharm development platform. This system aims to streamline the voting process, making it more accessible, efficient, and secure. The project incorporates a user-friendly interface for both voters and administrators, ensuring a seamless experience throughout the election process.
